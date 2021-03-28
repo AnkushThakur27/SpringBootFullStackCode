@@ -1,6 +1,4 @@
-[![CICD](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/amigoscode/spring-boot-fullstack-professional/actions/workflows/deploy.yml)
-
-https://amigoscode.com/p/full-stack-spring-boot-react
+Ankush Thakur's -full-stack-spring-boot-react
 
 ![Cover](https://user-images.githubusercontent.com/40702606/111074799-bdfbcf00-84dc-11eb-98c0-d40a99aa0da7.png)
 
